@@ -64,7 +64,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.12.39",
-        "pxt": "8.5.51"
+        "target": "1.12.30",
+        "pxt": "8.5.41"
     }
 }
