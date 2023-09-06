@@ -1,9 +1,9 @@
 {
-    "name": "mini",
+    "name": "Tutorial",
     "description": "",
     "dependencies": {
         "device": "*",
-        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1"
+        "core": "*"
     },
     "files": [
         "main.blocks",
@@ -22,23 +22,5 @@
         "target": "1.12.30",
         "pxt": "8.5.41"
     },
-    "preferredEditor": "blocksprj",
-    "palette": [
-        "#000000",
-        "#FFFFFF",
-        "#FF2121",
-        "#FF93C4",
-        "#FF8135",
-        "#FFF609",
-        "#249CA3",
-        "#78DC52",
-        "#003FAD",
-        "#87F2FF",
-        "#8E2EC4",
-        "#A4839F",
-        "#7F7F7F",
-        "#3F3F3F",
-        "#91463d",
-        "#000000"
-    ]
+    "preferredEditor": "blocksprj"
 }
