@@ -1,0 +1,15 @@
+{
+    "name": "Makecode Extension",
+    "version": "0.0.0",
+    "files": [
+        "main.ts",
+        "extesnsion.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "testDependencies": {}
+}
